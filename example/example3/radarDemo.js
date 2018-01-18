@@ -8,12 +8,9 @@
             {  
               "key":"Rodolfo Piza",
               "values":[  
-                {  "axis":"Strucure", "value":0.55 }, {  "axis":"Ideal", "value":0.56 },
-                {  "axis":"Stability", "value":0.87 }, {  "axis":"Harmony", "value":0.25 },
-                {  "axis":"Self-expression", "value":0.55 }, {  "axis":"Excitement", "value":0.43 },
-                {  "axis":"Practicality", "value":0.49 }, {  "axis":"Curiosity", "value":0.20 },
-                {  "axis":"Love", "value":0.59 }, {  "axis":"Closeness", "value":0.90 },
-                {  "axis":"Liberty", "value":0.35 }, {  "axis":"Challenge", "value":0.27 },
+                {  "axis":"Self-traccendence", "value":0.76 }, {  "axis":"Hedonism", "value":0.16 },
+                {  "axis":"Self-enhancement", "value":0.41 }, {  "axis":"Conservation", "value":0.78 },
+                {  "axis":"Openesess to change", "value":0.18 },
               
                 
               ]
@@ -21,12 +18,9 @@
             {  
               "key":"Juan Diego Castro",
               "values":[  
-                {  "axis":"Strucure", "value":0.23 }, {  "axis":"Ideal", "value":0.33 },
-                {  "axis":"Stability", "value":0.71 }, {  "axis":"Harmony", "value":0.28 },
-                {  "axis":"Self-expression", "value":0.22 }, {  "axis":"Excitement", "value":0.33 },
-                {  "axis":"Practicality", "value":0.49 }, {  "axis":"Curiosity", "value":0.22 },
-                {  "axis":"Love", "value":0.42 }, {  "axis":"Closeness", "value":0.34 },
-                {  "axis":"Liberty", "value":0.30 }, {  "axis":"Challenge", "value":0.26 },
+                {  "axis":"Self-traccendence", "value":0.31 }, {  "axis":"Hedonism", "value":0.15 },
+                {  "axis":"Self-enhancement", "value":0.32 }, {  "axis":"Conservation", "value":0.63 },
+                {  "axis":"Openesess to change", "value":0.25 },
               
                 
               ]
@@ -34,12 +28,9 @@
             {  
               "key":"Álvarez Desanti",
               "values":[  
-                {  "axis":"Strucure", "value":0.10 }, {  "axis":"Ideal", "value":0.29 },
-                {  "axis":"Stability", "value":0.94 }, {  "axis":"Harmony", "value":0.69 },
-                {  "axis":"Self-expression", "value":0.18 }, {  "axis":"Excitement", "value":0.29 },
-                {  "axis":"Practicality", "value":0.39 }, {  "axis":"Curiosity", "value":0.25 },
-                {  "axis":"Love", "value":0.32 }, {  "axis":"Closeness", "value":0.11 },
-                {  "axis":"Liberty", "value":0.45 }, {  "axis":"Challenge", "value":0.21 },
+                {  "axis":"Self-traccendence", "value":0.34 }, {  "axis":"Hedonism", "value":0.09 },
+                {  "axis":"Self-enhancement", "value":0.44 }, {  "axis":"Conservation", "value":0.20 },
+                {  "axis":"Openesess to change", "value":0.21 },
               
                 
               ]
@@ -48,12 +39,9 @@
             {  
               "key":"Carlos Alvarado",
               "values":[  
-                {  "axis":"Strucure", "value":0.91 }, {  "axis":"Ideal", "value":0.39 },
-                {  "axis":"Stability", "value":0.89 }, {  "axis":"Harmony", "value":0.45 },
-                {  "axis":"Self-expression", "value":0.33 }, {  "axis":"Excitement", "value":0.12 },
-                {  "axis":"Practicality", "value":0.53 }, {  "axis":"Curiosity", "value":0.90 },
-                {  "axis":"Love", "value":0.34 }, {  "axis":"Closeness", "value":0.22 },
-                {  "axis":"Liberty", "value":0.37 }, {  "axis":"Challenge", "value":0.53 },
+                {  "axis":"Self-traccendence", "value":0.67 }, {  "axis":"Hedonism", "value":0.11 },
+                {  "axis":"Self-enhancement", "value":0.91 }, {  "axis":"Conservation", "value":0.82 },
+                {  "axis":"Openesess to change", "value":0.21 },
               
                 
               ]

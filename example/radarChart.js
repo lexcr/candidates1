@@ -55,7 +55,7 @@ function RadarChart() {
 			 display: false,
 			 symbol: 'cross', // 'circle', 'cross', 'diamond', 'triangle-up', 'triangle-down'
 			 toggle: 'circle',
-			 position: { x: 25, y: 25 }
+			 position: { x: 10, y: 25 }
 		  },
 	
 		  color: d3.scale.category10()	   //Color function
